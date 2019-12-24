@@ -1,2 +1,2 @@
 CS books, piano sheets and more pdfs!
-<br>[maintained by lhd-code and Raptazure.]
+<br>[This repo is mainly maintained by lhd-code and Raptazure. Any related commit is welcomed.]
