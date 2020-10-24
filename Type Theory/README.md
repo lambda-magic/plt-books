@@ -1,4 +1,4 @@
-# [15-819 (Homotopy Type Theory)](http://www.cs.cmu.edu/~rwh/courses/hott/) Lecture Notes
+## [15-819 (Homotopy Type Theory)](http://www.cs.cmu.edu/~rwh/courses/hott/) Lecture Notes
 
 [https://github.com/RobertHarper/hott-notes](https://github.com/RobertHarper/hott-notes)
 
