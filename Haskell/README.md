@@ -2,6 +2,7 @@
 
 - [Anatomy of Programming Languages](https://www.cs.utexas.edu/~wcook/anatomy/) - Just create a simple language
 - [Functional Programming Course](https://github.com/system-f/fp-course)
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) | [zh-cn](https://learnyouahaskell.mno2.org/zh-cn)
 - [Magic Haskell](https://github.com/winterland1989/magic-haskell) - Tsinghua University Haskell Courses
 - [The Haskell School of Music](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) - From Signals to Symphonies
 - [What I Wish I Knew When Learning Haskell](https://github.com/sdiehl/wiwinwlh)
