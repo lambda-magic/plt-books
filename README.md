@@ -8,7 +8,7 @@ Functional Programming, Type Theory, Magical Spells...
 - [Elixir](https://github.com/lambda-magic/plt.books/tree/master/Elixir)
 - [GC](https://github.com/lambda-magic/plt.books/tree/master/GC)
 - [Haskell](https://github.com/lambda-magic/plt.books/tree/master/Haskell)
-- [Interperter](https://github.com/lambda-magic/plt.books/tree/master/Interperter)
+- [Interpreter](https://github.com/lambda-magic/plt.books/tree/master/Interpreter)
 - [Lisp](https://github.com/lambda-magic/plt.books/tree/master/Lisp)
 - [Rust](https://github.com/lambda-magic/plt.books/tree/master/Rust)
 - [Type Theory](https://github.com/lambda-magic/plt.books/tree/master/Type%20Theory) 
