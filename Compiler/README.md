@@ -1,0 +1,2 @@
+- [Functional programming, program transformations and compiler construction](https://github.com/lambda-magic/plt.books/blob/master/Compiler/402429.pdf)
+- [The Compiler Design Handbook](https://github.com/lambda-magic/plt.books/blob/master/Compiler/The-Compiler-Design-Handbook.pdf)

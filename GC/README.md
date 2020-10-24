@@ -1,0 +1,2 @@
+
+- [The Garbage Collection Handbook](https://github.com/lambda-magic/plt.books/blob/master/GC/The%20Garbage%20Collection%20Handbook%20The%20Art%20of%20Automatic%20Memory%20Management%20(Chapman%20%20HallCRC%20Applied%20Algorithms%20and%20Data%20Structures%20series)%20by%20Richard%20Jones%20Antony%20Hosking%20Eliot%20Moss%20(z-lib.org).pdf)
