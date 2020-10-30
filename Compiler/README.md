@@ -1,2 +1,3 @@
 - [Functional programming, program transformations and compiler construction](https://github.com/lambda-magic/plt.books/blob/master/Compiler/402429.pdf)
+- [LLVM IR Tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial)
 - [The Compiler Design Handbook](https://github.com/lambda-magic/plt.books/blob/master/Compiler/The-Compiler-Design-Handbook.pdf)

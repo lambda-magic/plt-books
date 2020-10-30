@@ -1,4 +1,5 @@
 ## Part1
+- [Agda Categories](https://github.com/agda/agda-categories) - A new Categories library for Agda 
 - [HoTT Intro](https://github.com/EgbertRijke/HoTT-Intro) - An introductory course to Homotopy Type Theory 
 - [PLFA](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda 
 - [Verified Functional Programming in Agda](https://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781970001259_sample.pdf)
