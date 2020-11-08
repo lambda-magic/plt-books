@@ -6,6 +6,7 @@
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) | [zh-cn](https://learnyouahaskell.mno2.org/zh-cn)
 - [Magic Haskell](https://github.com/winterland1989/magic-haskell) - Tsinghua University Haskell Courses
 - [Purely Functional Data Structure](https://github.com/lambda-magic/plt.books/blob/master/Haskell/okasaki.pdf)
+- [Real World Haskell](https://github.com/lambda-magic/plt.books/blob/master/Haskell/real-world-haskell.pdf)
 - [The Haskell Road to Logic, Math and Programming](https://github.com/lambda-magic/plt.books/blob/master/Haskell/Haskell_Road.pdf)
 - [The Haskell School of Music](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) - From Signals to Symphonies
 - [What I Wish I Knew When Learning Haskell](https://github.com/sdiehl/wiwinwlh)
