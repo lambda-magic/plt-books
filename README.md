@@ -11,6 +11,7 @@ Functional Programming, Type Theory, Magical Spells...
 - [Idris](https://github.com/lambda-magic/plt.books/tree/master/Idris)
 - [Interpreter](https://github.com/lambda-magic/plt.books/tree/master/Interpreter)
 - [Lisp](https://github.com/lambda-magic/plt.books/tree/master/Lisp)
+- [ML](https://github.com/lambda-magic/plt.books/tree/master/ML)
 - [Rust](https://github.com/lambda-magic/plt.books/tree/master/Rust)
 - [Type Theory](https://github.com/lambda-magic/plt.books/tree/master/Type%20Theory) 
 
